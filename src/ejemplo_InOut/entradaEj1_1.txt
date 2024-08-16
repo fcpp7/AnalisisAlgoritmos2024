@@ -1,0 +1,4 @@
+este archivo tiene
+varias palabras y 
+también tiene algunas espacios   entre ellas 
+Si se imprimio bien, son 4 líneas escritas sin espacios!
