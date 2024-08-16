@@ -45,7 +45,7 @@ public class Ejercicio_3_Primos {
         for (int i = 1; i <= n; i++) {
             if (chequearPrimo(i)) {
                 primos++;
-
+git p
             }
         }
         
