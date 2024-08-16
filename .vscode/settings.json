@@ -2,7 +2,8 @@
     "java.project.sourcePaths": [
         "src",
         "ejericios",
-        "ejemplos"
+        "ejemplos",
+        "lib"
     ],
     "java.project.outputPath": "bin",
     "java.project.referencedLibraries": [
