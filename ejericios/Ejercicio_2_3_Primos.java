@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.util.Scanner;
 
 
-public class Ejercicio_3_Primos {
+public class Ejercicio_2_3_Primos {
 
 	public static boolean chequearPrimo(int numero){
 		/* Iniciamos un boolean en true */
@@ -45,7 +45,6 @@ public class Ejercicio_3_Primos {
         for (int i = 1; i <= n; i++) {
             if (chequearPrimo(i)) {
                 primos++;
-git p
             }
         }
         
